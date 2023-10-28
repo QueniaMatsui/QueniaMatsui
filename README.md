@@ -15,7 +15,7 @@
   <a href="mailto:quenia@outlook.com"> 
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  <a href="www.linkedin.com/in/quênia-yoko-de-paula-matsui-329952279" target="_blank">
+  <a href="https://www.linkedin.com/in/quênia-yoko-de-paula-matsui-329952279" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
 </div>
